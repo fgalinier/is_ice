@@ -39,7 +39,7 @@ include::definitions.txt[]
 :eclipse: https://www.eclipse.org/[Eclipse]
 :egit: http://wiki.eclipse.org/EGit[EGit]
 :emfcompare: https://www.eclipse.org/emf/compare/[EMFCompare]
-:exigences: https://docs.google.com/spreadsheets/d/1mqJdyL4_9gSCE0xhUucRFZoQaRV3h4_D57niVrJNLh0/edit?usp=sharing
+:exigences: https://docs.google.com/spreadsheets/d/1mqJdyL4_9gSCE0xhUucRFZoQaRV3h4_D57niVrJNLh0/edit#gid=0
 :jucmnav: http://jucmnav.softwareengineering.ca/ucm/bin/view/ProjetSEG/WebHome[jUCMNav]
 :masterdl: http://www.master-developpement-logiciel.fr/[Master DL]
 :alfredurl: https://docs.google.com/document/d/1gOKTkq29SlI3dVAIYpyYmNIh06eAz3PeCvyxF93knsg/edit
